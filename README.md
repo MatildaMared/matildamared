@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **Next.js, styled-components and advanced accessibility features**
 
 - 📫 Reach me by mail at **matildamared@live.se**
 
