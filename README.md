@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript**, **C#**, **.NET**
 
 - 📫 Reach me by mail at **matildamared@live.se**
 
