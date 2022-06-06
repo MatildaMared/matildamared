@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript**, **C#**, **.NET**
+- 🌱 I’m currently learning **Next.js**, **Svelte**, **SvelteKit**
 
 - 📫 Reach me by mail at **matildamared@live.se**
 
