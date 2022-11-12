@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js**, **Svelte**, **SvelteKit**
+- 🌱 I’m currently learning **Nest js**
 
 - 📫 Reach me by mail at **matildamared@live.se**
 
