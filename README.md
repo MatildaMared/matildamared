@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Nest js**
+- 🌱 I’m currently learning **Java**
 
 - 📫 Reach me by mail at **matildamared@live.se**
 
